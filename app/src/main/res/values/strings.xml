@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PG</string>
+    <string-array name="months">
+        <item>1 mouths</item>
+        <item>2 mouths</item>
+        <item>3 mouths</item>
+        <item>4 mouths</item>
+        <item>5 mouths</item>
+        <item>6 mouths</item>
+        <item>7 mouths</item>
+        <item>8 mouths</item>
+        <item>9 mouths</item>
+        <item>10 mouths</item>
+        <item>11 mouths</item>
+        <item>12 mouths</item>
+    </string-array>
+</resources>
